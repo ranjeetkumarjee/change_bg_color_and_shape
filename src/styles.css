@@ -1,0 +1,47 @@
+#container {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  margin-left: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-dis {
+  display: block;
+}
+
+#btn-div {
+  margin-left: 40%;
+  display: block;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid red;
+}
+
+.sqare {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 50%;
+}
+.yel {
+  background-color: yellow;
+}
+.blu {
+  background-color: blue;
+}
+.grn {
+  background-color: green;
+}
